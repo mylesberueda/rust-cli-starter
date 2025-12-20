@@ -1,9 +1,9 @@
-/// Meta scaffolding file for creating new commands
-/// @note This command will not show in release builds and is only meant to help
-///       create new commands in development.
-///
-///       Unless you want to change the way your commands are created, you can
-///       ignore this file.
+//! Meta scaffolding file for creating new commands
+//! @note This command will not show in release builds and is only meant to help
+//!       create new commands in development.
+//!
+//!       Unless you want to change the way your commands are created, you can
+//!       ignore this file.
 use std::io::{BufRead, Read, Seek, Write};
 
 const TEMPLATES_FOLDER: &str = ".meta/templates";

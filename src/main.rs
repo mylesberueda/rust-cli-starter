@@ -1,7 +1,6 @@
-/**
- * This is the main driver code for the starter.
- * Run with `cargo run` or `<project_name>` to see the auto-generated help text.
- */
+//! This is the main driver code for the starter.
+//! Run with `cargo run` or `<project_name>` to see the auto-generated help text.
+
 mod commands;
 use clap::Parser as _;
 use commands::*;
