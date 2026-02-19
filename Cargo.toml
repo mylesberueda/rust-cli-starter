@@ -2,6 +2,7 @@
 [package]
 name = "rust-cli-starter"
 version = "0.1.0"
+authors = ["Myles Berueda <195809365+mylesberueda@users.noreply.github.com>"]
 description = "A starter for a CLI app using Clap's derive features."
 edition = "2024"
 
